@@ -2,4 +2,4 @@
 My Introduction!
 
 
-Hello, I am codebastian, youmay refer me as code and I am interested in Java programing.
+Hello, I am Codebastian, you may refer me as Code. I am hee to learn more in my inerest in Java programing. I hope to colaborate my code soon!
