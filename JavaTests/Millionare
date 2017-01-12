@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Millionare {
+
+	public static void main (String args[]) {
+				
+		Scanner keyboard = new Scanner(System.in);
+		
+	
+				double amountInAccount;
+				double Deposited = keyboard.nextInt();
+				
+				amountInAccount = 50.22;
+				amountInAccount = amountInAccount + Deposited;
+				
+				System.out.println("You have Deposited");
+				System.out.println("$" + amountInAccount);
+				System.out.println("Into your account. Would you like to deposit some money?");
+	}
+}
